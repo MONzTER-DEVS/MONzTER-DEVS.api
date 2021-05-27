@@ -1,0 +1,22 @@
+{
+
+    "games" :
+    {
+
+        "click ball" :
+        {
+            "image_url" :  "https://monzter-devs.github.io/api/images/ClickBall.png",
+            "description": "click ball is a clicker game in which we need to get the ball to the flag",
+            "download_link": "https://monzter-games.itch.io/click-ball"
+        },
+
+        "beat n boom" :
+        {
+            "image_url" :  "https://monzter-devs.github.io/api/images/BeatNBoom.png",
+            "description": "Beat N Boom is a rhythm based music game",
+            "download_link": "https://monzter-games.itch.io/beat-n-boom"
+        }
+
+    }
+
+}
