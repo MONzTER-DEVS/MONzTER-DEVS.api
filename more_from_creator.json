@@ -18,8 +18,8 @@
         },
         "Dodge the blocks": 
         {
-            "image_url" : "https://monzter-devs.github.io/MONzTER-DEVS.api/images/DTB.png"
-            "description" : "Dodge the incoming blocks!"
+            "image_url" : "https://monzter-devs.github.io/MONzTER-DEVS.api/images/DTB.png",
+            "description" : "Dodge the incoming blocks!",
             "download_link": "https://monzter-games.itch.io/dodge-the-block"
         }
 
