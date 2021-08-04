@@ -1,28 +1,34 @@
 {
-
     "games" :
     {
 
-        "click ball" :
+        "Click Ball" :
         {
             "image_url" :  "https://monzter-devs.github.io/MONzTER-DEVS.api/images/ClickBall.png",
             "description": "click ball is a clicker game in which we need to get the ball to the flag",
             "download_link": "https://monzter-games.itch.io/click-ball"
         },
 
-        "beat n boom" :
+        "Beat N Boom" :
         {
             "image_url" :  "https://monzter-devs.github.io/MONzTER-DEVS.api/images/BeatNBoom.png",
             "description": "Beat N Boom is a rhythm based music game",
             "download_link": "https://monzter-games.itch.io/beat-n-boom"
         },
+
         "Dodge the blocks": 
         {
             "image_url" : "https://monzter-devs.github.io/MONzTER-DEVS.api/images/DTB.png",
             "description" : "Dodge the incoming blocks!",
             "download_link": "https://monzter-games.itch.io/dodge-the-block"
+        },
+        
+        "Photon": 
+        {
+            "image_url" : "https://monzter-devs.github.io/MONzTER-DEVS.api/images/photon.png",
+            "description" : "Dodge the dark matter and collect all the photons to win!",
+            "download_link": "http://monzter-games.itch.io/photon"
         }
 
     }
-
 }
